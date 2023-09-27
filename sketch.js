@@ -43,7 +43,7 @@ fill(random(rainbow));
    
 
 function mouseDragged(){
-     fill(random(rainbow);
+     fill(random(rainbow));
   ellipse(x, y, 66, 66);
 
  
