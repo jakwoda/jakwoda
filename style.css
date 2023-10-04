@@ -70,7 +70,7 @@ a{
     transition: ease 1s;
 }
 p{
-
+margin: 1rem;
 }
 a:hover{
     color: blue;
