@@ -23,17 +23,19 @@ body{
 
     display: inline;
     font-family: vag;
-    color:transparent;
+    color: transparent;
     z-index: 100;
     position: fixed;
-font-size: 2.4em;
-    padding: 1em;
+    font-size: 8vw;
+    padding: 1vw;
     background-image: url(textures/ograinbow.png);
     background-size: contain;
     -webkit-background-clip: text;
     animation: BackAnimation 100s linear infinite;
     transition: ease 1s;
+    margin-left: 20vw;
 }
+
 
 
 
