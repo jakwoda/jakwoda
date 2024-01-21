@@ -92,11 +92,11 @@ a:hover{
 }
 
 .logo:before{
-    content:'like water';
+    content:'quasiaqua';
 
 }
 .logo:hover:before{
-    content:'quasiaqua';
+    content:'like water';
 }
 
 #shop:before{
@@ -116,12 +116,12 @@ a:hover{
     content:'🌊';
 }
 
-#tumblr:before{
-    content:'tumblr';
+#archive:before{
+    content:'archive';
 
 }
 
-#tumblr:hover:before{
+#archive:hover:before{
     content:'🗑️';
 }
 #about:before{
