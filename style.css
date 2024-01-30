@@ -92,11 +92,11 @@ a:hover{
 }
 
 .logo:before{
-    content:'quasiaqua';
+    content:'Jak Woda';
 
 }
 .logo:hover:before{
-    content:'like water';
+    content:'🌊💧';
 }
 
 #shop:before{
@@ -109,11 +109,11 @@ a:hover{
 }
 
 #ig:before{
-    content:'ig';
+    content:'social';
 
 }
 #ig:hover:before{
-    content:'🌊';
+    content:'🖼️';
 }
 
 #archive:before{
@@ -138,6 +138,15 @@ a:hover{
 }
 #mail:hover:before{
     content:'📨';
+    
+}
+
+#link:before{
+    content:'more links';
+
+}
+#link:hover:before{
+    content:'🌳';   
 }
 #id01{
     display: none;
